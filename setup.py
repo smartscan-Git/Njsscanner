@@ -54,4 +54,5 @@ setup(
         'jschema-to-python>=1.2.3',
         'tabulate>=0.8.10',
     ],
+
 )
